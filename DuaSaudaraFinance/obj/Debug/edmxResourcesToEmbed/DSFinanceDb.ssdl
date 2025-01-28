@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DuaSaudaraFinanceModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="tblParameter">
+    <Key>
+      <PropertyRef Name="ParamName" />
+    </Key>
+    <Property Name="ParamName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="ParamValue" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="tblPaymentType">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="PaymentTypeName" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="IsIn" Type="tinyint" />
+    <Property Name="Sorting" Type="int" />
+  </EntityType>
+  <EntityType Name="tblTransaction">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DateTrans" Type="datetime" />
+    <Property Name="TransItemId" Type="int" />
+    <Property Name="Amount" Type="money" />
+    <Property Name="TransDesc" Type="varchar(max)" />
+    <Property Name="PaymentTypeId" Type="int" />
+  </EntityType>
+  <EntityType Name="tblTransactionItem">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TransName" Type="varchar" MaxLength="50" />
+    <Property Name="IsIn" Type="bit" />
+    <Property Name="TemplateAmount" Type="money" />
+    <Property Name="IsActive" Type="tinyint" />
+  </EntityType>
+  <EntityContainer Name="DuaSaudaraFinanceModelStoreContainer">
+    <EntitySet Name="tblParameter" EntityType="Self.tblParameter" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblPaymentType" EntityType="Self.tblPaymentType" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblTransaction" EntityType="Self.tblTransaction" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblTransactionItem" EntityType="Self.tblTransactionItem" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

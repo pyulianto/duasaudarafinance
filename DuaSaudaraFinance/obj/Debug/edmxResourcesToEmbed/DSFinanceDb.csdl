@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DuaSaudaraFinanceModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="tblPaymentType">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PaymentTypeName" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="IsIn" Type="Byte" />
+    <Property Name="Sorting" Type="Int32" />
+  </EntityType>
+  <EntityType Name="tblTransaction">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DateTrans" Type="DateTime" Precision="3" />
+    <Property Name="TransItemId" Type="Int32" />
+    <Property Name="Amount" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="TransDesc" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="PaymentTypeId" Type="Int32" />
+  </EntityType>
+  <EntityType Name="tblTransactionItem">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TransName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="IsIn" Type="Boolean" />
+    <Property Name="TemplateAmount" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="IsActive" Type="Byte" />
+  </EntityType>
+  <EntityContainer Name="DuaSaudaraFinanceEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tblPaymentTypes" EntityType="Self.tblPaymentType" />
+    <EntitySet Name="tblTransactions" EntityType="Self.tblTransaction" />
+    <EntitySet Name="tblTransactionItems" EntityType="Self.tblTransactionItem" />
+    <EntitySet Name="tblParameters" EntityType="DuaSaudaraFinanceModel.tblParameter" />
+  </EntityContainer>
+  <EntityType Name="tblParameter">
+    <Key>
+      <PropertyRef Name="ParamName" />
+    </Key>
+    <Property Name="ParamName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ParamValue" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+</Schema>

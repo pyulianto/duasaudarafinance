@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DuaSaudaraFinanceModelStoreContainer" CdmEntityContainer="DuaSaudaraFinanceEntities">
+    <EntitySetMapping Name="tblPaymentTypes">
+      <EntityTypeMapping TypeName="DuaSaudaraFinanceModel.tblPaymentType">
+        <MappingFragment StoreEntitySet="tblPaymentType">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="PaymentTypeName" ColumnName="PaymentTypeName" />
+          <ScalarProperty Name="IsIn" ColumnName="IsIn" />
+          <ScalarProperty Name="Sorting" ColumnName="Sorting" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblTransactions">
+      <EntityTypeMapping TypeName="DuaSaudaraFinanceModel.tblTransaction">
+        <MappingFragment StoreEntitySet="tblTransaction">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="DateTrans" ColumnName="DateTrans" />
+          <ScalarProperty Name="TransItemId" ColumnName="TransItemId" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="TransDesc" ColumnName="TransDesc" />
+          <ScalarProperty Name="PaymentTypeId" ColumnName="PaymentTypeId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblTransactionItems">
+      <EntityTypeMapping TypeName="DuaSaudaraFinanceModel.tblTransactionItem">
+        <MappingFragment StoreEntitySet="tblTransactionItem">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="TransName" ColumnName="TransName" />
+          <ScalarProperty Name="IsIn" ColumnName="IsIn" />
+          <ScalarProperty Name="TemplateAmount" ColumnName="TemplateAmount" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblParameters">
+      <EntityTypeMapping TypeName="DuaSaudaraFinanceModel.tblParameter">
+        <MappingFragment StoreEntitySet="tblParameter">
+          <ScalarProperty Name="ParamValue" ColumnName="ParamValue" />
+          <ScalarProperty Name="ParamName" ColumnName="ParamName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,385 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|g:\\my drive\\toko dua saudara\\duasaudarafinance\\duasaudarafinance\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|solutionrelative:duasaudarafinance\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|g:\\my drive\\toko dua saudara\\duasaudarafinance\\duasaudarafinance\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|solutionrelative:duasaudarafinance\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|g:\\my drive\\toko dua saudara\\duasaudarafinance\\duasaudarafinance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|solutionrelative:duasaudarafinance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\LibSQLServer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|solutionrelative:DuaSaudaraFinance\\LibSQLServer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\duasaudarafinance\\frmmainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|solutionrelative:duasaudarafinance\\frmmainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\duasaudarafinance\\frmmainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|solutionrelative:duasaudarafinance\\frmmainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\duasaudarafinance\\barang\\frmdaftarbarangmasuk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|solutionrelative:duasaudarafinance\\barang\\frmdaftarbarangmasuk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\duasaudarafinance\\kain\\frmdaftararuskain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|solutionrelative:duasaudarafinance\\kain\\frmdaftararuskain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\duasaudarafinance\\barang\\frmbarangmasuk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|solutionrelative:duasaudarafinance\\barang\\frmbarangmasuk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\duasaudarafinance\\barang\\frmbarangmasuk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|solutionrelative:duasaudarafinance\\barang\\frmbarangmasuk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\duasaudarafinance\\barang\\frmdaftarbarangmasuk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|solutionrelative:duasaudarafinance\\barang\\frmdaftarbarangmasuk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\duasaudarafinance\\kain\\frmdaftararuskain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|solutionrelative:duasaudarafinance\\kain\\frmdaftararuskain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\duasaudarafinance\\transaksi\\frmdaftartransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|solutionrelative:duasaudarafinance\\transaksi\\frmdaftartransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\duasaudarafinance\\transaksi\\frmdaftartransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|solutionrelative:duasaudarafinance\\transaksi\\frmdaftartransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\duasaudarafinance\\transaksi\\frmtambahtransaksipenjualan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|solutionrelative:duasaudarafinance\\transaksi\\frmtambahtransaksipenjualan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\duasaudarafinance\\transaksi\\frmtambahtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|solutionrelative:duasaudarafinance\\transaksi\\frmtambahtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\duasaudarafinance\\kain\\frmaddsuratperintahkerja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|solutionrelative:duasaudarafinance\\kain\\frmaddsuratperintahkerja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\duasaudarafinance\\kain\\frmdaftarsuratperintahkerja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|solutionrelative:duasaudarafinance\\kain\\frmdaftarsuratperintahkerja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Kain\\frmDaftarSuratPerintahKerja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|solutionrelative:DuaSaudaraFinance\\Kain\\frmDaftarSuratPerintahKerja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Model\\BajuResiden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|solutionrelative:DuaSaudaraFinance\\Model\\BajuResiden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Model\\BarangItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|solutionrelative:DuaSaudaraFinance\\Model\\BarangItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Model\\ItemKain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|solutionrelative:DuaSaudaraFinance\\Model\\ItemKain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\duasaudarafinance\\kain\\frmkainmasuk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|solutionrelative:duasaudarafinance\\kain\\frmkainmasuk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\LoginForm.cs",
+              "RelativeDocumentMoniker": "DuaSaudaraFinance\\LoginForm.cs",
+              "ToolTip": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\LoginForm.cs",
+              "RelativeToolTip": "DuaSaudaraFinance\\LoginForm.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA1wDUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T07:26:48.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Program.cs",
+              "RelativeDocumentMoniker": "DuaSaudaraFinance\\Program.cs",
+              "ToolTip": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Program.cs",
+              "RelativeToolTip": "DuaSaudaraFinance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T07:06:12.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\LoginForm.cs",
+              "RelativeDocumentMoniker": "DuaSaudaraFinance\\LoginForm.cs",
+              "ToolTip": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\LoginForm.cs [Design]",
+              "RelativeToolTip": "DuaSaudaraFinance\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T07:23:21.38Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmDaftarBarangMasuk.cs [Design]",
+              "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Barang\\frmDaftarBarangMasuk.cs",
+              "RelativeDocumentMoniker": "DuaSaudaraFinance\\Barang\\frmDaftarBarangMasuk.cs",
+              "ToolTip": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Barang\\frmDaftarBarangMasuk.cs [Design]",
+              "RelativeToolTip": "DuaSaudaraFinance\\Barang\\frmDaftarBarangMasuk.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T12:50:31.489Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmMainWindow.cs [Design]",
+              "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\frmMainWindow.cs",
+              "RelativeDocumentMoniker": "DuaSaudaraFinance\\frmMainWindow.cs",
+              "ToolTip": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\frmMainWindow.cs [Design]",
+              "RelativeToolTip": "DuaSaudaraFinance\\frmMainWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:51:43.656Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMainWindow.cs",
+              "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\frmMainWindow.cs",
+              "RelativeDocumentMoniker": "DuaSaudaraFinance\\frmMainWindow.cs",
+              "ToolTip": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\frmMainWindow.cs",
+              "RelativeToolTip": "DuaSaudaraFinance\\frmMainWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:53:10.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibSQLServer.cs",
+              "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\LibSQLServer.cs",
+              "RelativeDocumentMoniker": "DuaSaudaraFinance\\LibSQLServer.cs",
+              "ToolTip": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\LibSQLServer.cs",
+              "RelativeToolTip": "DuaSaudaraFinance\\LibSQLServer.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwCkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:51:44.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmDaftarTransaksi.cs",
+              "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Transaksi\\frmDaftarTransaksi.cs",
+              "RelativeDocumentMoniker": "DuaSaudaraFinance\\Transaksi\\frmDaftarTransaksi.cs",
+              "ToolTip": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Transaksi\\frmDaftarTransaksi.cs",
+              "RelativeToolTip": "DuaSaudaraFinance\\Transaksi\\frmDaftarTransaksi.cs",
+              "ViewState": "AgIAACwBAAAAAAAAAADgvzsBAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:51:44.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmDaftarArusKain.cs",
+              "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Kain\\frmDaftarArusKain.cs",
+              "RelativeDocumentMoniker": "DuaSaudaraFinance\\Kain\\frmDaftarArusKain.cs",
+              "ToolTip": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Kain\\frmDaftarArusKain.cs",
+              "RelativeToolTip": "DuaSaudaraFinance\\Kain\\frmDaftarArusKain.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwEkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:51:44.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmBarangMasuk.cs",
+              "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Barang\\frmBarangMasuk.cs",
+              "RelativeDocumentMoniker": "DuaSaudaraFinance\\Barang\\frmBarangMasuk.cs",
+              "ToolTip": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Barang\\frmBarangMasuk.cs",
+              "RelativeToolTip": "DuaSaudaraFinance\\Barang\\frmBarangMasuk.cs",
+              "ViewState": "AgIAADwBAAAAAAAAAAAqwEwBAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:51:43.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmDaftarBarangMasuk.cs",
+              "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Barang\\frmDaftarBarangMasuk.cs",
+              "RelativeDocumentMoniker": "DuaSaudaraFinance\\Barang\\frmDaftarBarangMasuk.cs",
+              "ToolTip": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Barang\\frmDaftarBarangMasuk.cs",
+              "RelativeToolTip": "DuaSaudaraFinance\\Barang\\frmDaftarBarangMasuk.cs",
+              "ViewState": "AgIAABMBAAAAAAAAAAAiwCoBAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T12:50:36.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmBarangMasuk.cs [Design]",
+              "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Barang\\frmBarangMasuk.cs",
+              "RelativeDocumentMoniker": "DuaSaudaraFinance\\Barang\\frmBarangMasuk.cs",
+              "ToolTip": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Barang\\frmBarangMasuk.cs [Design]",
+              "RelativeToolTip": "DuaSaudaraFinance\\Barang\\frmBarangMasuk.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T12:54:57.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmDaftarTransaksi.cs [Design]",
+              "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Transaksi\\frmDaftarTransaksi.cs",
+              "RelativeDocumentMoniker": "DuaSaudaraFinance\\Transaksi\\frmDaftarTransaksi.cs",
+              "ToolTip": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Transaksi\\frmDaftarTransaksi.cs [Design]",
+              "RelativeToolTip": "DuaSaudaraFinance\\Transaksi\\frmDaftarTransaksi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:51:44.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmDaftarArusKain.cs [Design]",
+              "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Kain\\frmDaftarArusKain.cs",
+              "RelativeDocumentMoniker": "DuaSaudaraFinance\\Kain\\frmDaftarArusKain.cs",
+              "ToolTip": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Kain\\frmDaftarArusKain.cs [Design]",
+              "RelativeToolTip": "DuaSaudaraFinance\\Kain\\frmDaftarArusKain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:51:44.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmAddSuratPerintahKerja.cs [Design]",
+              "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Kain\\frmAddSuratPerintahKerja.cs",
+              "RelativeDocumentMoniker": "DuaSaudaraFinance\\Kain\\frmAddSuratPerintahKerja.cs",
+              "ToolTip": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Kain\\frmAddSuratPerintahKerja.cs [Design]",
+              "RelativeToolTip": "DuaSaudaraFinance\\Kain\\frmAddSuratPerintahKerja.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:33:20.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmTambahTransaksi.cs [Design]",
+              "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Transaksi\\frmTambahTransaksi.cs",
+              "RelativeDocumentMoniker": "DuaSaudaraFinance\\Transaksi\\frmTambahTransaksi.cs",
+              "ToolTip": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Transaksi\\frmTambahTransaksi.cs [Design]",
+              "RelativeToolTip": "DuaSaudaraFinance\\Transaksi\\frmTambahTransaksi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T08:12:08.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmTambahTransaksiPenjualan.cs [Design]",
+              "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Transaksi\\frmTambahTransaksiPenjualan.cs",
+              "RelativeDocumentMoniker": "DuaSaudaraFinance\\Transaksi\\frmTambahTransaksiPenjualan.cs",
+              "ToolTip": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Transaksi\\frmTambahTransaksiPenjualan.cs [Design]",
+              "RelativeToolTip": "DuaSaudaraFinance\\Transaksi\\frmTambahTransaksiPenjualan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T08:12:09.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmDaftarSuratPerintahKerja.cs [Design]",
+              "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Kain\\frmDaftarSuratPerintahKerja.cs",
+              "RelativeDocumentMoniker": "DuaSaudaraFinance\\Kain\\frmDaftarSuratPerintahKerja.cs",
+              "ToolTip": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Kain\\frmDaftarSuratPerintahKerja.cs [Design]",
+              "RelativeToolTip": "DuaSaudaraFinance\\Kain\\frmDaftarSuratPerintahKerja.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:51:44.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmDaftarSuratPerintahKerja.cs",
+              "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Kain\\frmDaftarSuratPerintahKerja.cs",
+              "RelativeDocumentMoniker": "DuaSaudaraFinance\\Kain\\frmDaftarSuratPerintahKerja.cs",
+              "ToolTip": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Kain\\frmDaftarSuratPerintahKerja.cs",
+              "RelativeToolTip": "DuaSaudaraFinance\\Kain\\frmDaftarSuratPerintahKerja.cs",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAAAK4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:51:43.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BajuResiden.cs",
+              "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Model\\BajuResiden.cs",
+              "RelativeDocumentMoniker": "DuaSaudaraFinance\\Model\\BajuResiden.cs",
+              "ToolTip": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Model\\BajuResiden.cs",
+              "RelativeToolTip": "DuaSaudaraFinance\\Model\\BajuResiden.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAjwCoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:51:44.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BarangItem.cs",
+              "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Model\\BarangItem.cs",
+              "RelativeDocumentMoniker": "DuaSaudaraFinance\\Model\\BarangItem.cs",
+              "ToolTip": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Model\\BarangItem.cs",
+              "RelativeToolTip": "DuaSaudaraFinance\\Model\\BarangItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:51:44.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ItemKain.cs",
+              "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Model\\ItemKain.cs",
+              "RelativeDocumentMoniker": "DuaSaudaraFinance\\Model\\ItemKain.cs",
+              "ToolTip": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Model\\ItemKain.cs",
+              "RelativeToolTip": "DuaSaudaraFinance\\Model\\ItemKain.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA3wDUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:51:44.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmKainMasuk.cs [Design]",
+              "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Kain\\frmKainMasuk.cs",
+              "RelativeDocumentMoniker": "DuaSaudaraFinance\\Kain\\frmKainMasuk.cs",
+              "ToolTip": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Kain\\frmKainMasuk.cs [Design]",
+              "RelativeToolTip": "DuaSaudaraFinance\\Kain\\frmKainMasuk.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:51:44.335Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

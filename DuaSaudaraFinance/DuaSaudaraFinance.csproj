@@ -1,0 +1,369 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0D6236F4-E882-421A-870F-E8A6B664B917}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DuaSaudaraFinance</RootNamespace>
+    <AssemblyName>DuaSaudaraFinance</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>1486564172-finance-loan-money_81492.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="ListViewPrinter, Version=2.7.1.31255, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ObjectListView.2.7.1.5\lib\ListViewPrinter.dll</HintPath>
+    </Reference>
+    <Reference Include="ObjectListView, Version=2.7.1.31255, Culture=neutral, PublicKeyToken=b1c5bf581481bcd4, processorArchitecture=MSIL">
+      <HintPath>..\packages\ObjectListView.2.7.1.5\lib\ObjectListView.dll</HintPath>
+    </Reference>
+    <Reference Include="SparkleLibrary, Version=2.7.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ObjectListView.2.7.1.5\lib\SparkleLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Administrator\frmDaftarMerkKain_AddMerkKain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrator\frmDaftarMerkKain_AddMerkKain.Designer.cs">
+      <DependentUpon>frmDaftarMerkKain_AddMerkKain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administrator\frmDaftarMerkKain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrator\frmDaftarMerkKain.Designer.cs">
+      <DependentUpon>frmDaftarMerkKain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Barang\frmBarangMasuk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Barang\frmBarangMasuk.Designer.cs">
+      <DependentUpon>frmBarangMasuk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Barang\frmBarangMasuk_SmartInput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Barang\frmBarangMasuk_SmartInput.Designer.cs">
+      <DependentUpon>frmBarangMasuk_SmartInput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Barang\frmBarangPicker_BajuLab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Barang\frmBarangPicker_BajuLab.Designer.cs">
+      <DependentUpon>frmBarangPicker_BajuLab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Barang\frmBarangPicker_BajuOK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Barang\frmBarangPicker_BajuOK.Designer.cs">
+      <DependentUpon>frmBarangPicker_BajuOK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Barang\FrmBarangPicker_BajuOK_ViewModel.cs" />
+    <Compile Include="Barang\frmBarangPicker_BajuPerawat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Barang\frmBarangPicker_BajuPerawat.Designer.cs">
+      <DependentUpon>frmBarangPicker_BajuPerawat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Barang\frmBarangPicker_JasDokter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Barang\frmBarangPicker_JasDokter.Designer.cs">
+      <DependentUpon>frmBarangPicker_JasDokter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Barang\frmBarangPicker_Jubah.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Barang\frmBarangPicker_Jubah.Designer.cs">
+      <DependentUpon>frmBarangPicker_Jubah.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Barang\frmBarangPicker_Lain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Barang\frmBarangPicker_Lain.Designer.cs">
+      <DependentUpon>frmBarangPicker_Lain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Barang\frmBarangPicker_Residen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Barang\frmBarangPicker_Residen.Designer.cs">
+      <DependentUpon>frmBarangPicker_Residen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Barang\frmBarangPicker_Universal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Barang\frmBarangPicker_Universal.Designer.cs">
+      <DependentUpon>frmBarangPicker_Universal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Barang\frmDaftarBarangMasuk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Barang\frmDaftarBarangMasuk.Designer.cs">
+      <DependentUpon>frmDaftarBarangMasuk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DuaSaudaraFinanceDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DuaSaudaraFinanceDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kain\frmAddSuratPerintahKerja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kain\frmAddSuratPerintahKerja.Designer.cs">
+      <DependentUpon>frmAddSuratPerintahKerja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kain\frmDaftarSuratPerintahKerja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kain\frmDaftarSuratPerintahKerja.Designer.cs">
+      <DependentUpon>frmDaftarSuratPerintahKerja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\AttributeKainWarna.cs" />
+    <Compile Include="Model\ItemKain.cs" />
+    <Compile Include="Model\JasIDI.cs" />
+    <Compile Include="Transaksi\frmDaftarTransaksi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaksi\frmDaftarTransaksi.Designer.cs">
+      <DependentUpon>frmDaftarTransaksi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMainWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMainWindow.Designer.cs">
+      <DependentUpon>frmMainWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GlobalVariable.cs" />
+    <Compile Include="Kain\frmDaftarArusKain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kain\frmDaftarArusKain.Designer.cs">
+      <DependentUpon>frmDaftarArusKain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kain\frmDaftarJenisKain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kain\frmDaftarJenisKain.Designer.cs">
+      <DependentUpon>frmDaftarJenisKain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kain\frmDaftarJenisKain_AddColor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kain\frmDaftarJenisKain_AddColor.Designer.cs">
+      <DependentUpon>frmDaftarJenisKain_AddColor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kain\frmKainMasuk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kain\frmKainMasuk.Designer.cs">
+      <DependentUpon>frmKainMasuk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LibSQLServer.cs" />
+    <Compile Include="Model\AttributeBajuOKJenis.cs" />
+    <Compile Include="Model\AttributeBajuOKSet.cs" />
+    <Compile Include="Model\AttributeBajuOKWarna.cs" />
+    <Compile Include="Model\AttributeJasDokterBahan.cs" />
+    <Compile Include="Model\AttributeLengan.cs" />
+    <Compile Include="Model\AttributeResidenSetBarang.cs" />
+    <Compile Include="Model\AttributeSize.cs" />
+    <Compile Include="Model\BajuOK.cs" />
+    <Compile Include="Model\BajuResiden.cs" />
+    <Compile Include="Model\BarangItem.cs" />
+    <Compile Include="Model\ColorOK.cs" />
+    <Compile Include="Model\ItemLain.cs" />
+    <Compile Include="Model\ItemSimplified.cs" />
+    <Compile Include="Model\JasDokter.cs" />
+    <Compile Include="Model\Sex.cs" />
+    <Compile Include="Model\Supplier.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Transaksi\frmTambahTransaksi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaksi\frmTambahTransaksi.Designer.cs">
+      <DependentUpon>frmTambahTransaksi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaksi\frmTambahTransaksiPenjualan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaksi\frmTambahTransaksiPenjualan.Designer.cs">
+      <DependentUpon>frmTambahTransaksiPenjualan.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Administrator\frmDaftarMerkKain_AddMerkKain.resx">
+      <DependentUpon>frmDaftarMerkKain_AddMerkKain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrator\frmDaftarMerkKain.resx">
+      <DependentUpon>frmDaftarMerkKain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Barang\frmBarangMasuk.resx">
+      <DependentUpon>frmBarangMasuk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Barang\frmBarangMasuk_SmartInput.resx">
+      <DependentUpon>frmBarangMasuk_SmartInput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Barang\frmBarangPicker_BajuLab.resx">
+      <DependentUpon>frmBarangPicker_BajuLab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Barang\frmBarangPicker_BajuOK.resx">
+      <DependentUpon>frmBarangPicker_BajuOK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Barang\frmBarangPicker_BajuPerawat.resx">
+      <DependentUpon>frmBarangPicker_BajuPerawat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Barang\frmBarangPicker_JasDokter.resx">
+      <DependentUpon>frmBarangPicker_JasDokter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Barang\frmBarangPicker_Jubah.resx">
+      <DependentUpon>frmBarangPicker_Jubah.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Barang\frmBarangPicker_Lain.resx">
+      <DependentUpon>frmBarangPicker_Lain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Barang\frmBarangPicker_Residen.resx">
+      <DependentUpon>frmBarangPicker_Residen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Barang\frmBarangPicker_Universal.resx">
+      <DependentUpon>frmBarangPicker_Universal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Barang\frmDaftarBarangMasuk.resx">
+      <DependentUpon>frmDaftarBarangMasuk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kain\frmAddSuratPerintahKerja.resx">
+      <DependentUpon>frmAddSuratPerintahKerja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kain\frmDaftarSuratPerintahKerja.resx">
+      <DependentUpon>frmDaftarSuratPerintahKerja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCashFlow.rdlc" />
+    <EmbeddedResource Include="Transaksi\frmDaftarTransaksi.resx">
+      <DependentUpon>frmDaftarTransaksi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMainWindow.resx">
+      <DependentUpon>frmMainWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kain\frmDaftarArusKain.resx">
+      <DependentUpon>frmDaftarArusKain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kain\frmDaftarJenisKain.resx">
+      <DependentUpon>frmDaftarJenisKain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kain\frmDaftarJenisKain_AddColor.resx">
+      <DependentUpon>frmDaftarJenisKain_AddColor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kain\frmKainMasuk.resx">
+      <DependentUpon>frmKainMasuk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Transaksi\frmTambahTransaksi.resx">
+      <DependentUpon>frmTambahTransaksi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaksi\frmTambahTransaksiPenjualan.resx">
+      <DependentUpon>frmTambahTransaksiPenjualan.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DuaSaudaraFinanceDataSet.xsc">
+      <DependentUpon>DuaSaudaraFinanceDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DuaSaudaraFinanceDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DuaSaudaraFinanceDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DuaSaudaraFinanceDataSet.xss">
+      <DependentUpon>DuaSaudaraFinanceDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1486564172-finance-loan-money_81492.ico" />
+    <None Include="Resources\add.gif" />
+    <None Include="Resources\delete_box_red.gif" />
+    <Content Include="TextFile1.txt" />
+    <None Include="Resources\login-128.ico" />
+    <None Include="Resources\list-ingredients-128.ico" />
+    <None Include="Resources\1486564172-finance-loan-money_81492.ico" />
+    <None Include="Resources\logout-128.ico" />
+    <None Include="Resources\Icon1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

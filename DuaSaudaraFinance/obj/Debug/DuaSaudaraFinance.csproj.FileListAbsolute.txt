@@ -1,0 +1,130 @@
+D:\Dropbox\DuaSaudaraFinance\DuaSaudaraFinance\bin\Debug\DuaSaudaraFinance.exe.config
+D:\Dropbox\DuaSaudaraFinance\DuaSaudaraFinance\bin\Debug\DuaSaudaraFinance.exe
+D:\Dropbox\DuaSaudaraFinance\DuaSaudaraFinance\bin\Debug\DuaSaudaraFinance.pdb
+D:\Dropbox\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.csprojAssemblyReference.cache
+D:\Dropbox\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.DaftarTransaksi.resources
+D:\Dropbox\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Properties.Resources.resources
+D:\Dropbox\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.TambahTransaksi.resources
+D:\Dropbox\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.csproj.GenerateResource.cache
+D:\Dropbox\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.csproj.CoreCompileInputs.cache
+D:\Dropbox\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.exe
+D:\Dropbox\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.pdb
+D:\Dropbox\Project\DuaSaudaraFinance\DuaSaudaraFinance\bin\Debug\DuaSaudaraFinance.exe.config
+D:\Dropbox\Project\DuaSaudaraFinance\DuaSaudaraFinance\bin\Debug\DuaSaudaraFinance.exe
+D:\Dropbox\Project\DuaSaudaraFinance\DuaSaudaraFinance\bin\Debug\DuaSaudaraFinance.pdb
+D:\Dropbox\Project\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Properties.Resources.resources
+D:\Dropbox\Project\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.csproj.GenerateResource.cache
+D:\Dropbox\Project\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.csproj.CoreCompileInputs.cache
+D:\Dropbox\Project\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.exe
+D:\Dropbox\Project\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.pdb
+C:\Dropbox\DuaSaudaraFinance\DuaSaudaraFinance\bin\Debug\DuaSaudaraFinance.exe.config
+C:\Dropbox\DuaSaudaraFinance\DuaSaudaraFinance\bin\Debug\DuaSaudaraFinance.exe
+C:\Dropbox\DuaSaudaraFinance\DuaSaudaraFinance\bin\Debug\DuaSaudaraFinance.pdb
+C:\Dropbox\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.DaftarTransaksi.resources
+C:\Dropbox\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Properties.Resources.resources
+C:\Dropbox\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.TambahTransaksi.resources
+C:\Dropbox\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.csproj.GenerateResource.Cache
+C:\Dropbox\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.csproj.CoreCompileInputs.cache
+C:\Dropbox\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.exe
+C:\Dropbox\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.pdb
+D:\Dropbox\Project\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.csproj.AssemblyReference.cache
+D:\Dropbox\Project\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.csproj.SuggestedBindingRedirects.cache
+D:\Dropbox\Project\DuaSaudaraFinance\DuaSaudaraFinance\bin\Debug\EntityFramework.dll
+D:\Dropbox\Project\DuaSaudaraFinance\DuaSaudaraFinance\bin\Debug\EntityFramework.SqlServer.dll
+D:\Dropbox\Project\DuaSaudaraFinance\DuaSaudaraFinance\bin\Debug\EntityFramework.xml
+D:\Dropbox\Project\DuaSaudaraFinance\DuaSaudaraFinance\bin\Debug\EntityFramework.SqlServer.xml
+D:\Dropbox\Project\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.csproj.CopyComplete
+D:\Dropbox\Project\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.frmDaftarTransaksi.resources
+D:\Dropbox\Project\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.frmMainWindow.resources
+D:\Dropbox\Project\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.frmTambahTransaksi.resources
+D:\Dropbox\Project\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Administrator.frmDaftarMerkKain.resources
+D:\Dropbox\Project\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Administrator.frmDaftarMerkKain_AddMerkKain.resources
+D:\Dropbox\Project\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Kain.frmDaftarJenisKain.resources
+D:\Dropbox\Project\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Kain.frmDaftarJenisKain_AddColor.resources
+D:\Dropbox\Project\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Kain.frmDaftarArusKain.resources
+D:\Dropbox\Project\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Kain.frmKainMasuk.resources
+D:\Dropbox\Project\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Barang.frmBarangMasuk.resources
+D:\Dropbox\Project\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Barang.frmBarangPicker_JasDokter.resources
+D:\Dropbox\Project\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Barang.frmBarangPicker_Lain.resources
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\bin\Debug\DuaSaudaraFinance.exe.config
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\bin\Debug\DuaSaudaraFinance.exe
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\bin\Debug\DuaSaudaraFinance.pdb
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\bin\Debug\EntityFramework.dll
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\bin\Debug\EntityFramework.SqlServer.dll
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\bin\Debug\EntityFramework.xml
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\bin\Debug\EntityFramework.SqlServer.xml
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.csproj.AssemblyReference.cache
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Administrator.frmDaftarMerkKain_AddMerkKain.resources
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Administrator.frmDaftarMerkKain.resources
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Barang.frmBarangMasuk.resources
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Barang.frmBarangPicker_JasDokter.resources
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Barang.frmBarangPicker_Lain.resources
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.frmDaftarTransaksi.resources
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.frmMainWindow.resources
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Kain.frmDaftarArusKain.resources
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Kain.frmDaftarJenisKain.resources
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Kain.frmDaftarJenisKain_AddColor.resources
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Kain.frmKainMasuk.resources
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Properties.Resources.resources
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.frmTambahTransaksi.resources
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.csproj.GenerateResource.cache
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.csproj.CoreCompileInputs.cache
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.exe
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.pdb
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\bin\Debug\DuaSaudaraFinance.exe.config
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\bin\Debug\DuaSaudaraFinance.exe
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\bin\Debug\DuaSaudaraFinance.pdb
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\bin\Debug\EntityFramework.dll
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\bin\Debug\EntityFramework.SqlServer.dll
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\bin\Debug\EntityFramework.xml
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\bin\Debug\EntityFramework.SqlServer.xml
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.csproj.AssemblyReference.cache
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Administrator.frmDaftarMerkKain_AddMerkKain.resources
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Administrator.frmDaftarMerkKain.resources
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Barang.frmBarangMasuk.resources
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Barang.frmBarangPicker_JasDokter.resources
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Barang.frmBarangPicker_Lain.resources
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.frmDaftarTransaksi.resources
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.frmMainWindow.resources
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Kain.frmDaftarArusKain.resources
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Kain.frmDaftarJenisKain.resources
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Kain.frmDaftarJenisKain_AddColor.resources
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Kain.frmKainMasuk.resources
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Properties.Resources.resources
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.frmTambahTransaksi.resources
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.csproj.GenerateResource.cache
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.csproj.CoreCompileInputs.cache
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.csproj.CopyComplete
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.exe
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.pdb
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Barang.frmDaftarBarangMasuk.resources
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Barang.frmBarangPicker_Residen.resources
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Barang.frmBarangPicker_BajuOK.resources
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.csproj.SuggestedBindingRedirects.cache
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\bin\Debug\ListViewPrinter.dll
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\bin\Debug\ObjectListView.dll
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\bin\Debug\SparkleLibrary.dll
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Transaksi.frmTambahTransaksiPenjualan.resources
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Barang.frmBarangPicker_BajuLab.resources
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Barang.frmBarangPicker_Jubah.resources
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Barang.frmBarangPicker_BajuPerawat.resources
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Barang.frmBarangPicker_Universal.resources
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Barang.frmBarangMasuk_SmartInput.resources
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Kain.frmAddSuratPerintahKerja.resources
+D:\GDrive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Kain.frmDaftarSuratPerintahKerja.resources
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\bin\Debug\ListViewPrinter.dll
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\bin\Debug\ObjectListView.dll
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\bin\Debug\SparkleLibrary.dll
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Barang.FrmBarangMasuk_SmartInput.resources
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Barang.frmBarangPicker_BajuLab.resources
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Barang.frmBarangPicker_BajuOK.resources
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Barang.frmBarangPicker_BajuPerawat.resources
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Barang.frmBarangPicker_Jubah.resources
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Barang.frmBarangPicker_Residen.resources
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Barang.frmBarangPicker_Universal.resources
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Barang.frmDaftarBarangMasuk.resources
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Kain.frmAddSuratPerintahKerja.resources
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Kain.frmDaftarSuratPerintahKerja.resources
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.Transaksi.frmTambahTransaksiPenjualan.resources
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSauda.A30DAB92.Up2Date
+G:\My Drive\Toko Dua Saudara\DuaSaudaraFinance\DuaSaudaraFinance\obj\Debug\DuaSaudaraFinance.LoginForm.resources
