@@ -7,16 +7,20 @@
       "RelativeMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|solutionrelative:duasaudarafinance\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|g:\\my drive\\toko dua saudara\\duasaudarafinance\\duasaudarafinance\\globalvariable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|solutionrelative:duasaudarafinance\\globalvariable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\duasaudarafinance\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|solutionrelative:duasaudarafinance\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\duasaudarafinance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|solutionrelative:duasaudarafinance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\LibSQLServer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|solutionrelative:DuaSaudaraFinance\\LibSQLServer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\duasaudarafinance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|solutionrelative:duasaudarafinance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\duasaudarafinance\\frmmainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -102,8 +106,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlobalVariable.cs",
+              "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\GlobalVariable.cs",
+              "RelativeDocumentMoniker": "DuaSaudaraFinance\\GlobalVariable.cs",
+              "ToolTip": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\GlobalVariable.cs",
+              "RelativeToolTip": "DuaSaudaraFinance\\GlobalVariable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T01:04:35.972Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -112,7 +133,7 @@
               "RelativeDocumentMoniker": "DuaSaudaraFinance\\LoginForm.cs",
               "ToolTip": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\LoginForm.cs",
               "RelativeToolTip": "DuaSaudaraFinance\\LoginForm.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAQwDUAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T07:26:48.448Z",
               "EditorCaption": ""
@@ -120,29 +141,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Program.cs",
-              "RelativeDocumentMoniker": "DuaSaudaraFinance\\Program.cs",
-              "ToolTip": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Program.cs",
-              "RelativeToolTip": "DuaSaudaraFinance\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T07:06:12.954Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "LoginForm.cs [Design]",
               "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\LoginForm.cs",
               "RelativeDocumentMoniker": "DuaSaudaraFinance\\LoginForm.cs",
               "ToolTip": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\LoginForm.cs [Design]",
               "RelativeToolTip": "DuaSaudaraFinance\\LoginForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T07:23:21.38Z"
+              "WhenOpened": "2025-01-27T07:23:21.38Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "frmDaftarBarangMasuk.cs [Design]",
               "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Barang\\frmDaftarBarangMasuk.cs",
               "RelativeDocumentMoniker": "DuaSaudaraFinance\\Barang\\frmDaftarBarangMasuk.cs",
@@ -153,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "frmMainWindow.cs [Design]",
               "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\frmMainWindow.cs",
               "RelativeDocumentMoniker": "DuaSaudaraFinance\\frmMainWindow.cs",
@@ -164,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "frmMainWindow.cs",
               "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\frmMainWindow.cs",
               "RelativeDocumentMoniker": "DuaSaudaraFinance\\frmMainWindow.cs",
@@ -184,11 +194,24 @@
               "RelativeToolTip": "DuaSaudaraFinance\\LibSQLServer.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAiwCkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T05:51:44.333Z"
+              "WhenOpened": "2024-07-31T05:51:44.333Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Program.cs",
+              "RelativeDocumentMoniker": "DuaSaudaraFinance\\Program.cs",
+              "ToolTip": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Program.cs",
+              "RelativeToolTip": "DuaSaudaraFinance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T07:06:12.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "frmDaftarTransaksi.cs",
               "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Transaksi\\frmDaftarTransaksi.cs",
               "RelativeDocumentMoniker": "DuaSaudaraFinance\\Transaksi\\frmDaftarTransaksi.cs",
@@ -200,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "frmDaftarArusKain.cs",
               "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Kain\\frmDaftarArusKain.cs",
               "RelativeDocumentMoniker": "DuaSaudaraFinance\\Kain\\frmDaftarArusKain.cs",
@@ -212,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "frmBarangMasuk.cs",
               "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Barang\\frmBarangMasuk.cs",
               "RelativeDocumentMoniker": "DuaSaudaraFinance\\Barang\\frmBarangMasuk.cs",
@@ -224,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "frmDaftarBarangMasuk.cs",
               "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Barang\\frmDaftarBarangMasuk.cs",
               "RelativeDocumentMoniker": "DuaSaudaraFinance\\Barang\\frmDaftarBarangMasuk.cs",
@@ -236,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "frmBarangMasuk.cs [Design]",
               "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Barang\\frmBarangMasuk.cs",
               "RelativeDocumentMoniker": "DuaSaudaraFinance\\Barang\\frmBarangMasuk.cs",
@@ -247,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "frmDaftarTransaksi.cs [Design]",
               "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Transaksi\\frmDaftarTransaksi.cs",
               "RelativeDocumentMoniker": "DuaSaudaraFinance\\Transaksi\\frmDaftarTransaksi.cs",
@@ -258,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "frmDaftarArusKain.cs [Design]",
               "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Kain\\frmDaftarArusKain.cs",
               "RelativeDocumentMoniker": "DuaSaudaraFinance\\Kain\\frmDaftarArusKain.cs",
@@ -269,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "frmAddSuratPerintahKerja.cs [Design]",
               "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Kain\\frmAddSuratPerintahKerja.cs",
               "RelativeDocumentMoniker": "DuaSaudaraFinance\\Kain\\frmAddSuratPerintahKerja.cs",
@@ -280,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "frmTambahTransaksi.cs [Design]",
               "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Transaksi\\frmTambahTransaksi.cs",
               "RelativeDocumentMoniker": "DuaSaudaraFinance\\Transaksi\\frmTambahTransaksi.cs",
@@ -291,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "frmTambahTransaksiPenjualan.cs [Design]",
               "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Transaksi\\frmTambahTransaksiPenjualan.cs",
               "RelativeDocumentMoniker": "DuaSaudaraFinance\\Transaksi\\frmTambahTransaksiPenjualan.cs",
@@ -302,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "frmDaftarSuratPerintahKerja.cs [Design]",
               "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Kain\\frmDaftarSuratPerintahKerja.cs",
               "RelativeDocumentMoniker": "DuaSaudaraFinance\\Kain\\frmDaftarSuratPerintahKerja.cs",
@@ -313,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "frmDaftarSuratPerintahKerja.cs",
               "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Kain\\frmDaftarSuratPerintahKerja.cs",
               "RelativeDocumentMoniker": "DuaSaudaraFinance\\Kain\\frmDaftarSuratPerintahKerja.cs",
@@ -325,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "BajuResiden.cs",
               "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Model\\BajuResiden.cs",
               "RelativeDocumentMoniker": "DuaSaudaraFinance\\Model\\BajuResiden.cs",
@@ -337,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "BarangItem.cs",
               "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Model\\BarangItem.cs",
               "RelativeDocumentMoniker": "DuaSaudaraFinance\\Model\\BarangItem.cs",
@@ -349,7 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "ItemKain.cs",
               "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Model\\ItemKain.cs",
               "RelativeDocumentMoniker": "DuaSaudaraFinance\\Model\\ItemKain.cs",
@@ -361,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "frmKainMasuk.cs [Design]",
               "DocumentMoniker": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Kain\\frmKainMasuk.cs",
               "RelativeDocumentMoniker": "DuaSaudaraFinance\\Kain\\frmKainMasuk.cs",

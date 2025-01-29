@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|solutionrelative:duasaudarafinance\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|g:\\my drive\\toko dua saudara\\duasaudarafinance\\duasaudarafinance\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\duasaudarafinance\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|solutionrelative:duasaudarafinance\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|g:\\my drive\\toko dua saudara\\duasaudarafinance\\duasaudarafinance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\duasaudarafinance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D6236F4-E882-421A-870F-E8A6B664B917}|DuaSaudaraFinance\\DuaSaudaraFinance.csproj|solutionrelative:duasaudarafinance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -112,7 +112,7 @@
               "RelativeDocumentMoniker": "DuaSaudaraFinance\\LoginForm.cs",
               "ToolTip": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\LoginForm.cs",
               "RelativeToolTip": "DuaSaudaraFinance\\LoginForm.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAA1wDUAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwDUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T07:26:48.448Z",
               "EditorCaption": ""
@@ -127,8 +127,7 @@
               "RelativeToolTip": "DuaSaudaraFinance\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T07:06:12.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T07:06:12.954Z"
             },
             {
               "$type": "Document",
@@ -139,8 +138,7 @@
               "ToolTip": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\LoginForm.cs [Design]",
               "RelativeToolTip": "DuaSaudaraFinance\\LoginForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T07:23:21.38Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-27T07:23:21.38Z"
             },
             {
               "$type": "Document",
@@ -151,8 +149,7 @@
               "ToolTip": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\Barang\\frmDaftarBarangMasuk.cs [Design]",
               "RelativeToolTip": "DuaSaudaraFinance\\Barang\\frmDaftarBarangMasuk.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T12:50:31.489Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-06T12:50:31.489Z"
             },
             {
               "$type": "Document",
@@ -163,8 +160,7 @@
               "ToolTip": "G:\\My Drive\\Toko Dua Saudara\\DuaSaudaraFinance\\DuaSaudaraFinance\\frmMainWindow.cs [Design]",
               "RelativeToolTip": "DuaSaudaraFinance\\frmMainWindow.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T05:51:43.656Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-07-31T05:51:43.656Z"
             },
             {
               "$type": "Document",
@@ -176,8 +172,7 @@
               "RelativeToolTip": "DuaSaudaraFinance\\frmMainWindow.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T05:53:10.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T05:53:10.495Z"
             },
             {
               "$type": "Document",
@@ -189,8 +184,7 @@
               "RelativeToolTip": "DuaSaudaraFinance\\LibSQLServer.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAiwCkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T05:51:44.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T05:51:44.333Z"
             },
             {
               "$type": "Document",
@@ -238,8 +232,7 @@
               "RelativeToolTip": "DuaSaudaraFinance\\Barang\\frmDaftarBarangMasuk.cs",
               "ViewState": "AgIAABMBAAAAAAAAAAAiwCoBAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T12:50:36.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-06T12:50:36.617Z"
             },
             {
               "$type": "Document",
